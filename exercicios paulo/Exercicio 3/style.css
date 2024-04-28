@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    flex-direction: column;
+    background-color: antiquewhite;
+}
+
+#menu{
+    border: 2px solid black;
+    text-align: center;
+    padding: 40px 20px;
+    background-color: white;
+}
+
+section{
+    padding: 10px;
+}
+
+button{
+    background-color: green;
+    color: white;
+}

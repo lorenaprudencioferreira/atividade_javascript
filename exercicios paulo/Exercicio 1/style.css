@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+button{
+    background-color: black;
+    color: aliceblue;
+    padding: 15px;
+}
